@@ -25,7 +25,7 @@ echo.
 echo Sorry, no spaces allowed in your username...
 echo If I allowed you to have spaces
 echo in your username, then you
-echo wouldn't be able to save you game...
+echo wouldn't be able to save you game..
 pause >nul
 goto start1
 )
