@@ -1,0 +1,9 @@
+###########
+#CHANGELOG#
+###########
+
+v1.1 - Added a new fish type "Salmon".
+v1.2 - Fixed a ton of text errors & Bugs. Added "Great White Shark" to "Rich Store".
+
+SEND EMAIL TO Blazexfinesse@gmail.com WITH GAME IDEAS!
+MAKE THE SUBJECT "Fishing RPG Ideas".
